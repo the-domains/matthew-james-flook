@@ -28,11 +28,11 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.theatlantic.com/magazine/archive/2015/10/hit-charade/403192/'
 title: The Elaborate Charade to Obfuscate Who Writes Pop Music
-datePublished: '2016-07-29T18:24:20.442Z'
-dateModified: '2016-07-29T18:24:19.993Z'
+datePublished: '2016-07-29T18:26:14.534Z'
+dateModified: '2016-07-29T18:26:14.157Z'
 sourcePath: _posts/2016-01-16-the-elaborate-charade-to-obfuscate-who-writes-pop-music.md
 via: {}
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
