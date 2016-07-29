@@ -1,7 +1,7 @@
 name: Matthew James Flook
 favicon: null
-layout_spectrum: 0.22095
-typography_spectrum: 0.46598
+layout_spectrum: 0.141557706752792
+typography_spectrum: 0.3055618719663471
 title: Matthew James Flook
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#273419'
-    - '#203310'
-    - '#1d2d0e'
-    - '#1b2a0c'
-    - '#233115'
-  brandStrength: 0.5
-  lightness: 0.6875
-  saturation: 0.5
-  rhythmicContrast: 1
+    - '#85DB18'
+    - '#CDE855'
+    - '#F5F6D4'
+    - '#A7C520'
+    - '#493F0B'
+  brandStrength: 0.23618784826248884
+  lightness: 0.329004475614056
+  saturation: 0.8403367702849209
+  rhythmicContrast: 0.2770247671287507
 purpose: []
