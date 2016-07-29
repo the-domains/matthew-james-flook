@@ -37,6 +37,9 @@ navigation:
   - name: Wake System
     url: 'http://wakesystem.net'
     type: external
+  - name: About Me
+    url: 'https://about.me/flook'
+    type: external
 favicon: null
 title: Matthew James Flook
 description: 'Always rushing, always late.'
