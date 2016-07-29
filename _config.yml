@@ -25,6 +25,9 @@ cta:
   bucket: null
   version: null
 navigation:
+  - name: About Me
+    url: 'https://about.me/flook'
+    type: external
   - name: Pinscape
     url: 'http://pinscape.com'
     type: external
@@ -36,9 +39,6 @@ navigation:
     type: external
   - name: Wake System
     url: 'http://wakesystem.net'
-    type: external
-  - name: About Me
-    url: 'https://about.me/flook'
     type: external
 favicon: null
 title: Matthew James Flook
