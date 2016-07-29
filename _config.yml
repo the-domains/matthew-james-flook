@@ -34,6 +34,9 @@ navigation:
   - name: Sevy-Verna
     url: 'http://sevyverna.com'
     type: external
+  - name: Wake System
+    url: 'http://wakesystem.net'
+    type: external
 favicon: null
 title: Matthew James Flook
 description: 'Always rushing, always late.'
