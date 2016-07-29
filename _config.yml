@@ -31,6 +31,9 @@ navigation:
   - name: Exit Signs
     url: 'http://exitsigns.io'
     type: external
+  - name: Sevy-Verna
+    url: 'http://sevyverna.com'
+    type: external
 favicon: null
 title: Matthew James Flook
 description: 'Always rushing, always late.'
