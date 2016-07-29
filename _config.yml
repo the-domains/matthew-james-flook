@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Pinscape
+    url: 'http://pinscape.com'
+    type: external
 favicon: null
 title: Matthew James Flook
 description: 'Always rushing, always late.'
