@@ -20,9 +20,9 @@ analytics:
   facebook: null
   twitter: null
 author:
-  name: Matthew Flook
-  email: matthew@flook.me
-  url: 'http://flook.me'
+  name: ''
+  email: ''
+  url: ''
 name: Matthew James Flook
 cta:
   domain: null
