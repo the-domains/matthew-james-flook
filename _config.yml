@@ -19,6 +19,10 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Matthew Flook
+  email: matthew@flook.me
+  url: 'http://flook.me'
 name: Matthew James Flook
 cta:
   domain: null
@@ -41,6 +45,6 @@ navigation:
     url: 'http://wakesystem.net'
     type: external
 favicon: null
-title: Matthew James Flook
+title: 'Always rushing, always late.'
 description: 'Always rushing, always late.'
 purpose: []
