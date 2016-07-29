@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-29T17:47:48.143Z'
+datePublished: '2016-07-29T18:02:10.806Z'
 sourcePath: >-
   _posts/2016-01-16-you-can-download-john-romeros-first-new-doom-level-in-21-ye.md
 inFeed: true
@@ -19,8 +19,9 @@ keywords:
   - uekm7gbbxd
 related: []
 author: []
-dateModified: '2016-07-29T17:47:47.648Z'
-title: You can download John Romero's first new Doom level in 21 years right now
+via: {}
+dateModified: '2016-07-29T18:02:10.332Z'
+title: ''
 app_links: []
 publisher:
   name: Polygon
@@ -30,7 +31,6 @@ publisher:
 description: My roots.
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
@@ -38,4 +38,4 @@ _type: MediaObject
 ---
 My roots.
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db93c115be2e252531261c07e7fc673f0a0b819d.png" /><h1>You can download John Romero's first new Doom level in 21 years right now</h1><p>John Romero, co-creator of FPS classic Doom, decided to try his hand at creating a new level for the game - his first in 21 years. In a Facebook post and tweet, he both announced his return to level design for the game and offered it as a free download to players.</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db93c115be2e252531261c07e7fc673f0a0b819d.png" /><p>John Romero, co-creator of FPS classic Doom, decided to try his hand at creating a new level for the game - his first in 21 years. In a Facebook post and tweet, he both announced his return to level design for the game and offered it as a free download to players.</p></article>
