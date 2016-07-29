@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-29T17:48:45.534Z'
+datePublished: '2016-07-29T18:02:35.248Z'
 sourcePath: _posts/2016-02-18-inside-the-artificial-universe-that-creates-itself.md
 inFeed: true
 isBasedOnUrl: >-
@@ -22,8 +22,9 @@ author:
   - name: Roc Morin
     url: 'http://www.theatlantic.com/author/roc-morin/'
     avatar: {}
-dateModified: '2016-07-29T17:48:44.629Z'
-title: Inside the Artificial Universe That Creates Itself
+via: {}
+dateModified: '2016-07-29T18:02:34.764Z'
+title: ''
 app_links: []
 publisher:
   name: The Atlantic
@@ -31,15 +32,14 @@ publisher:
   url: 'http://www.theatlantic.com'
   favicon: >-
     http://cdn.theatlantic.com/assets/static/b/theatlantic/common/img/favicon.ico
-description: I can't wait for this game.
+description: I cannot wait for this game.
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-I can't wait for this game.
+I cannot wait for this game.
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/52b8c9841fd02bb3dbcaecae5d3a9289177bbe66.png" /><h1>Inside the Artificial Universe That Creates Itself</h1><p>A team of programmers has built a self-generating cosmos, and even they don't know what's hiding in its vast reaches. Please consider disabling it for our site, or supporting our work in one of these ways Subscribe Now &gt; The creatures are generated through the procedural distortion of archetypes, and each given their own unique behavioral profiles.</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/52b8c9841fd02bb3dbcaecae5d3a9289177bbe66.png" /><p>A team of programmers has built a self-generating cosmos, and even they don't know what's hiding in its vast reaches. Please consider disabling it for our site, or supporting our work in one of these ways Subscribe Now &gt; The creatures are generated through the procedural distortion of archetypes, and each given their own unique behavioral profiles.</p></article>
