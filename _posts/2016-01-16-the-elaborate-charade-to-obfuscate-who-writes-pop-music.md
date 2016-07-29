@@ -7,7 +7,8 @@ related: []
 publisher:
   url: 'http://www.theatlantic.com'
   name: The Atlantic
-  favicon: 'http://cdn.theatlantic.com/assets/static/b/theatlantic/common/img/favicon.ico'
+  favicon: >-
+    http://cdn.theatlantic.com/assets/static/b/theatlantic/common/img/favicon.ico
   domain: www.theatlantic.com
 keywords:
   - songs
@@ -20,15 +21,18 @@ keywords:
   - rihanna
   - max
   - ester
-description: Meet the bald Norwegians and other unknowns who actually create the songs that top the charts.
+description: >-
+  Meet the bald Norwegians and other unknowns who actually create the songs that
+  top the charts.
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.theatlantic.com/magazine/archive/2015/10/hit-charade/403192/'
 title: The Elaborate Charade to Obfuscate Who Writes Pop Music
-datePublished: '2016-01-16T20:00:33.462Z'
-dateModified: '2016-01-16T19:59:39.232Z'
+datePublished: '2016-07-29T18:24:20.442Z'
+dateModified: '2016-07-29T18:24:19.993Z'
 sourcePath: _posts/2016-01-16-the-elaborate-charade-to-obfuscate-who-writes-pop-music.md
-published: true
+via: {}
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
