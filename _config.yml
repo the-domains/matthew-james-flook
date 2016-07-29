@@ -28,6 +28,9 @@ navigation:
   - name: Pinscape
     url: 'http://pinscape.com'
     type: external
+  - name: Exit Signs
+    url: 'http://exitsigns.io'
+    type: external
 favicon: null
 title: Matthew James Flook
 description: 'Always rushing, always late.'
