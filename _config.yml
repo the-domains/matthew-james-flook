@@ -1,20 +1,4 @@
-name: Matthew James Flook
-favicon: null
-layout_spectrum: 0.141557706752792
 typography_spectrum: 0.3055618719663471
-title: Matthew James Flook
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#85DB18'
@@ -26,4 +10,21 @@ color:
   lightness: 0.329004475614056
   saturation: 0.8403367702849209
   rhythmicContrast: 0.2770247671287507
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.141557706752792
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Matthew James Flook
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Matthew James Flook
+description: 'Always rushing, always late.'
 purpose: []
